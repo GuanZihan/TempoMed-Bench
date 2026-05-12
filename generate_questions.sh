@@ -1,0 +1,1 @@
+python pubmed_trajectory/evaluation/pubmed_generate_questions_with_NBME.py ./results_2026_relaxed_with_post_processing_flat ./questions_2026_relaxed_4_option_augmented.jsonl
